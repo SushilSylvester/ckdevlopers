@@ -9396,9 +9396,9 @@ textarea {
     content: '\e6cd'
 }
 
-#tml-tool-bar #tml-share:before {
+/* #tml-tool-bar #tml-share:before {
     content: '\e70b'
-}
+} */
 
 #tml-exit:before {
     content: '\e66f'

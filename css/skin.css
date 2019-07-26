@@ -3780,7 +3780,7 @@ only screen and (				min-resolution: 2dppx) {
 	.intro-title-2{
 		background-image: url(../images/about/1.jpg);	
 	}
-	.intro-title-2-1{
+	/*.intro-title-2-1{
 		background-image: url(../images/slider/slide-8-page-intro@2x.jpg);	
 	}
 	.intro-title-2-2{
@@ -3791,7 +3791,7 @@ only screen and (				min-resolution: 2dppx) {
 	}
 	.intro-title-2-4{
 		background-image: url(../images/slider/slide-13-page-intro@2x.jpg);
-	}
+	}*/
 
 	/* Fullscreen Sections */
 	.fullscreen-bkg-2{

@@ -1470,16 +1470,16 @@ body,
 	background-image: url(../images/about/1.jpg);	
 }
 .intro-title-2-1{
-	background-image: url(../images/slider/slide-8-page-intro.jpg);	
+	background-image: url(../images/bannerall/gallery.jpg);	
 }
 .intro-title-2-2{
-	background-image: url(../images/slider/slide-9-page-intro.jpg);	
+	background-image: url(../images/bannerall/contact.jpeg);	
 }
 .intro-title-2-3{
-	background-image: url(../images/slider/slide-11-page-intro.jpg);	
+	background-image: url(../images/bannerall/project.jpg);	
 }
 .intro-title-2-4{
-	background-image: url(../images/slider/slide-13-page-intro.jpg);	
+	background-image: url(../images/bannerall/joint.jpeg);	
 }
 @media only screen and (max-width: 768px){
 	[class*="intro-title-"],
